@@ -36,5 +36,3 @@ let req = http.request(obj, (req, res) => {
 
 // 结束响应
 req.end();
-
-console.log('1111')
